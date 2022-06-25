@@ -1,3 +1,10 @@
 build/
 /tags
 /bazel-*
+
+#premake
+out/
+# IDE Files
+*.user
+*.sln
+*.vcxproj*
